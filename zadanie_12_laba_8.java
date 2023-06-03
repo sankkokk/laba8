@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class zadanie_12_laba_8 {
     public static void main(String[] args){
         Scanner in = new Scanner(System.in);
         System.out.println("input n");
